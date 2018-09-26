@@ -1,0 +1,14 @@
+{
+  "name": "box",
+  "version": "1.0.0",
+  "description": "a project to save password",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Minho",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  }
+}
